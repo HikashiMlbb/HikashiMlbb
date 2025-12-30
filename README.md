@@ -1,7 +1,12 @@
 # Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning at a middle school while study programming and web-development myself.<br>🖥️ Now, I creating my full-stack recipe website using Anguar + NGINX + ASP.NET Core for school project.
+🌱 I’m currently learning at a middle school while study programming and web-development myself.<br>🖥️
+
+# 💘 The projects I am proud:
+- [Library App](https://github.com/HikashiMlbb/LibraryApp.Server)
+- [Recipe Website (for school project)](https://github.com/HikashiMlbb/RecipeWebsite)
+- [Microservice Experiment with K8s deployment](https://github.com/HikashiMlbb/MicroserviceExperiment)
 
 
 ## 🌐 Socials:
